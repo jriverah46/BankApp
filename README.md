@@ -23,6 +23,6 @@ A simple banking simulation web application built with **Spring Boot** and **Thy
 - **Database**: 
 - **Build Tool**: Gradel
 
-## 🧑‍💻 Getting Started
+
 
 
