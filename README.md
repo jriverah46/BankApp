@@ -9,7 +9,7 @@ A simple banking simulation web application built with **Spring Boot** and **Thy
 - 💸 Deposit, withdrawal, and transfer of funds
 - 📄 Transaction history per user
 - 🌐 Frontend using Thymeleaf for dynamic views
-- 🗄️ H2 in-memory database (easy setup for demo/testing)
+
 
 ## 📸 Screenshots
 
